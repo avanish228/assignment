@@ -8,7 +8,7 @@ http://ec2-3-135-188-2.us-east-2.compute.amazonaws.com/activity/
 
 this project can also be clone in the local environment user can either download the project directly or can clone the project using the below command. (to run the below command git must be configured in the )
 
-git clone 
+git clone https://github.com/avanish228/assignment.git
 
 
 after cloning the project please make sure python3 and pip are installed locally.
